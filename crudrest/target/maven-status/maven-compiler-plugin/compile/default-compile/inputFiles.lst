@@ -1,0 +1,5 @@
+/Users/conradmarquesperes/Documents/tests/Ninja/crudrest/src/main/java/br/com/devmedia/crudrest/dao/ContactDAO.java
+/Users/conradmarquesperes/Documents/tests/Ninja/crudrest/src/main/java/br/com/devmedia/crudrest/dao/IContactDAO.java
+/Users/conradmarquesperes/Documents/tests/Ninja/crudrest/src/main/java/br/com/devmedia/crudrest/domain/Contact.java
+/Users/conradmarquesperes/Documents/tests/Ninja/crudrest/src/main/java/br/com/devmedia/crudrest/resource/ContactResource.java
+/Users/conradmarquesperes/Documents/tests/Ninja/crudrest/src/main/java/br/com/devmedia/crudrest/util/JPAUtil.java

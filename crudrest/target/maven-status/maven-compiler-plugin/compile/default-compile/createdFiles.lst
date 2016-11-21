@@ -1,0 +1,7 @@
+br/com/devmedia/crudrest/resource/ContactResource$1.class
+br/com/devmedia/crudrest/dao/ContactDAO.class
+br/com/devmedia/crudrest/domain/Contact.class
+br/com/devmedia/crudrest/resource/ContactResource.class
+br/com/devmedia/crudrest/util/JPAUtil$PopulatingDatabase.class
+br/com/devmedia/crudrest/dao/IContactDAO.class
+br/com/devmedia/crudrest/util/JPAUtil.class
