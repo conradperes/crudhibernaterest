@@ -1,0 +1,6 @@
+---
+applications:
+- name: crudrest
+  memory: 377M
+  host: crudrest
+  domain: cfapps.io
